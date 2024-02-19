@@ -1,0 +1,6 @@
+[submodule "sheep-jetson"]
+	path = sheep-jetson
+	url = https://github.com/MakeLab-Network/sheep-jetson.git
+[submodule "sheep-arduino"]
+	path = sheep-arduino
+	url = https://github.com/MakeLab-Network/sheep-arduino.git
